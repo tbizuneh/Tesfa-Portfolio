@@ -6,7 +6,7 @@ Content
 
 Project
 
-- clike on the letter on the image to access the deployed version
+- clike on the image to access the deployed version
 - click on the project title under the image to access the code on Github
 
 https://tbizuneh.github.io/Tesfa-Portfolio/
