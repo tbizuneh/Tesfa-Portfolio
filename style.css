@@ -110,50 +110,44 @@ margin-bottom: 30px;
   margin: 16px 0px 16px 0px;
   text-indent: 30px;
 }
-#project1{
-  background: url(./image/hik.jpg);
+#img{
   display: inline-block;
   height: 200px;
   line-height: 80px; 
   font-family: fantasy;
   text-align: center;
-
-  
-  
-  
+  left: 10px;
 }
+
+#train{
+  color:gray;
+  font-size: 30px;
+  font-family: fantasy;
+}
+#friend{
+  color: red;
+  font-size: 30px;
+  font-family: fantasy;
+}
+
+ #burger{
+color: brown;
+font-size: 30px;
+  font-family: fantasy;
+ } 
+
 #trail{
   color:green;
   font-size: 30px;
   font-family: fantasy;
 }
-#project2{
-  background: url(./image/giftastic.gif);
-  display: inline-block;
-  height: 200px;
-  line-height: 80px;
-  font-family: fantasy;
-  text-align: center;
-  left: 10px;
-  
-  
-  
-}
+
 #gif{
   color: rgb(212, 53, 106);
   font-size: 30px;
   font-family: fantasy;
 }
-#project3{
-  background: url(./image/crystal.jpg);
-  display: inline-block;
-  height: 200px;
-   line-height: 80px;
-  font-family: fantasy;
-  font-size: 1.1em;
-  text-align: center;
-  left: 20px;
-}
+
 #crystal{
   color: lightgoldenrodyellow;
   font-family: fantasy;
